@@ -60,6 +60,11 @@ int main () {
 ```
 
 ### 🌏 2026 The Great Backpacking Journey
+> **Current Location:** 🏠 Taiwan (Preparing) | **Trip Progress:** [░░░░░░░░░░] 0%
+
+**The Path:**
+⚪ MY ➝ ⚪ TH ➝ ⚪ NP ➝ ⚪ IN ➝ ⚪ AE ➝ ⚪ KE ➝ ⚪ EG ➝ ⚪ AM ➝ ⚪ GR ➝ ⚪ IT ➝ ⚪ FR ➝ ⚪ ES
+
 *Last Updated: Automated by Python*
 
 <img src="assets/journey.png">
