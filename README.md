@@ -63,7 +63,7 @@ int main () {
 > **Current Location:** 🏠 Taiwan (Preparing) | **Trip Progress:** [░░░░░░░░░░] 0%
 
 **The Path:**
-⚪ MY ➝ ⚪ TH ➝ ⚪ NP ➝ ⚪ IN ➝ ⚪ AE ➝ ⚪ KE ➝ ⚪ EG ➝ ⚪ AM ➝ ⚪ GR ➝ ⚪ IT ➝ ⚪ FR ➝ ⚪ ES
+⚪ MY ➝ ⚪ TH ➝ ⚪ NP ➝ ⚪ IN ➝ ⚪ AE ➝ ⚪ KE ➝ ⚪ EG ➝ ⚪ AM ➝ ⚪ GR ➝ ⚪ IT ➝ ⚪ FR ➝ ⚪ ES ➝ ⚪ CH
 
 *Last Updated: Automated by Python*
 
