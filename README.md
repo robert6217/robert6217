@@ -14,13 +14,17 @@
 
 I'm an **Embedded Software Engineer** from TPE, TW. That happens to takes photographs and is pationate about it, travel as well.
 
+Feeling stuck in an infinite loop of routine, I've decided to **refactor my life**. Starting **March 2026**, I'm deploying myself to the world—heading West from Taiwan, hiking the **Camino de Santiago**, and walking until I hit the "End of the World".
+
 **About me**
-- 🔭 I'm currently working on **my Great Backpacking Journey!**
-- 🌱 I'm currently learning **Frontend framework.**
-- 👯 I'm looking to collaborate with **other Developers.**
-- 💬 Ask me about **anything, I am happy to help.**
+- 🔭 I'm currently working on **I’m currently working on my Great Backpacking Journey!**
+- 🌱 I'm currently learning **I’m currently learning Frontend framework.**
+- 👯 I'm looking to collaborate on **I’m looking to collaborate with other Developers or Traveler😉.**
+- 💬 Ask me about **Ask me about anything, I am happy to help.**
 - ⚡ Fun fact: **2026 is when I release the Major Update of my life.**
 - 📝 Resume: 
+
+
 
 👇 **Follow the deployment logs (Daily Reels):**<br>
 <p align="left">
@@ -34,6 +38,40 @@ I'm an **Embedded Software Engineer** from TPE, TW. That happens to takes photog
 ------------
 <br>
 
+![Current Location](https://img.shields.io/badge/📍_Current_Location-Taipei-blue)
+![Next Destination](https://img.shields.io/badge/✈️_Next_Destination-Kuala_Lumpur-green)
+
+```C
+#include <stdio.h>
+
+int main () {
+	int age = 29;
+
+	// Before 30: Stuck in the loop
+	while(age < 30) {
+		keep_coding(); 
+	}
+
+	// At 30: Break the loop & Start the journey
+	traveling();
+
+	return 0;
+}
+```
+
+### 🌏 2026 The Great Backpacking Journey
+> **Current Location:** 🏠 Taiwan (Preparing) | **Trip Progress:** [░░░░░░░░░░] 0%
+
+**The Path:**
+⚪ MY ➝ ⚪ TH ➝ ⚪ NP ➝ ⚪ IN ➝ ⚪ AE ➝ ⚪ KE ➝ ⚪ EG ➝ ⚪ AM ➝ ⚪ GR ➝ ⚪ IT ➝ ⚪ FR ➝ ⚪ ES
+
+*Last Updated: Automated by Python*
+
+<img src="assets/journey.png">
+
+------------
+<br>
+
 **Skill & Tools I enjoy using**
 <p align="center">
 	<b>Languages<b/> <br />
@@ -43,7 +81,7 @@ I'm an **Embedded Software Engineer** from TPE, TW. That happens to takes photog
 	<b> Other needed tools <b/>  <br />
 	<img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,git,linux,mongodb,postgres,raspberrypi" /> <br /> <br />
 	<b> Creative<b/>  <br />
-	<img src="https://skillicons.dev/icons?i=ps,vscode,notion,md" /> <br /> <br />
+	<img src="https://skillicons.dev/icons?i=ps,vscode,md" /> <br /> <br />
 </p>
 
 ## 📫 GitHub Stats
