@@ -16,6 +16,7 @@ itinerary = [
 	{"code": "IT", "name": "Italy",    "flag": "🇮🇹"},
 	{"code": "FR", "name": "France",   "flag": "🇫🇷"},
 	{"code": "ES", "name": "Spain",    "flag": "🇪🇸"},
+	{"code": "CH", "name": "Switzerland",    "flag": "🇨🇭"},
 ]
 
 def generate_progress_bar(current_idx, total):
